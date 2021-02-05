@@ -1,6 +1,6 @@
 # Netflix Concept UI
 
-<ins>Netflix Concept UI with Flutter Framework</ins>
+<ins>Netflix Concept UI Made with Flutter</ins>
 
 ![alt text](https://github.com/carminetotera/Images/blob/master/netflix-concept.png?raw=true)
 
